@@ -1,4 +1,4 @@
-![Harvest Poster title](https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker/assets/48102202/76c596f9-9255-4ead-acbc-84e6bd49d5d0)# Harvest: Bricks Breaker
+# Harvest: Bricks Breaker
  
 3D version of one of the most famous classical games "Bricks Breaker" using UE5.
 
