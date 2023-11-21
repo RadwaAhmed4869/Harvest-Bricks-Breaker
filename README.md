@@ -3,7 +3,7 @@
 3D version of one of the most famous classical games "Bricks Breaker" using UE5.
 
 ## Game Theme:
-![Screenshot (37)](https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker/assets/48102202/10920efb-6084-4438-919d-470fbdc42b42)
+![Harvest Poster](https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker/assets/48102202/6e91fe5c-44d1-47a8-a821-e15da4c601fc)
 
 ## Game Features:
 
