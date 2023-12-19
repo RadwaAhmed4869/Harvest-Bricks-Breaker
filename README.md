@@ -5,6 +5,12 @@
 ## Game Theme:
 ![Harvest Poster title](https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker/assets/48102202/20ee12e3-08ea-4d2f-bfc5-08e41b2f1ffe)
 
+## Gameplay:
+
+https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker/assets/48102202/90a63024-55ea-4d81-b571-04e9876f2b4c
+
+
+
 ## Game Features:
 
 Paddle: Using the mouse, you control a paddle at the bottom of the screen. The paddle is used to bounce a ball and prevent it from falling off the screen.
